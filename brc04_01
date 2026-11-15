@@ -1,0 +1,1 @@
+	新檔X(U) => [git add] => 檔X(A) => [git commit -m “說明一”] => 檔X(B) => [修改 檔X] => 檔X(M) => [git add] => [git commit -m “說明二”] => 檔X(B)
